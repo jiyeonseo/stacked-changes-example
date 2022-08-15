@@ -1,0 +1,2 @@
+func getComment()
+func createComment()
